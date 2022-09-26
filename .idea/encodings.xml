@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/01-inmemory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-inmemory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-dbUserAuthentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-dbUserAuthentication/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-InMemoryUserDetails/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-InMemoryUserDetails/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-user-role/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-user-role/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-user-role-ajax/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-user-role-ajax/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

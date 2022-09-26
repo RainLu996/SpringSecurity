@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringSecutity/pom.xml" />
+        <option value="$PROJECT_DIR$/01-inmemory/pom.xml" />
+        <option value="$PROJECT_DIR$/02-dbUserAuthentication/pom.xml" />
+        <option value="$PROJECT_DIR$/03-InMemoryAuthentication/pom.xml" />
+        <option value="$PROJECT_DIR$/03-InMemoryUserDetails/pom.xml" />
+        <option value="$PROJECT_DIR$/04-user-role/pom.xml" />
+        <option value="$PROJECT_DIR$/05-user-role-ajax/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

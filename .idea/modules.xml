@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-inmemory/01-inmemory.iml" filepath="$PROJECT_DIR$/01-inmemory/01-inmemory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-dbUserAuthentication/02-dbUserAuthentication.iml" filepath="$PROJECT_DIR$/02-dbUserAuthentication/02-dbUserAuthentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-InMemoryUserDetails/03-InMemoryUserDetails.iml" filepath="$PROJECT_DIR$/03-InMemoryUserDetails/03-InMemoryUserDetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-user-role/04-user-role.iml" filepath="$PROJECT_DIR$/04-user-role/04-user-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-user-role-ajax/05-user-role-ajax.iml" filepath="$PROJECT_DIR$/05-user-role-ajax/05-user-role-ajax.iml" />
+    </modules>
+  </component>
+</project>

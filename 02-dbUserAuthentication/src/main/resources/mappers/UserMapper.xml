@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.lujun61.dbuserauthentication.dao.UserMapper">
+    <select id="selectUserInfoByName" resultType="UserInfo" parameterType="string">
+        select * from springsecurity.userinfo where username=#{username}
+    </select>
+
+    <insert id="insertUserInfo">
+        insert into springsecurity.userinfo(id, username, password, role)
+        value (#{id}, #{username}, #{password}, #{role})
+    </insert>
+</mapper>

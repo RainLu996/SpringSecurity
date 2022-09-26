@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-user-role" />
+        <module name="01-inmemory" />
+        <module name="05-user-role-ajax" />
+        <module name="02-dbUserAuthentication" />
+        <module name="03-InMemoryUserDetails" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-inmemory" target="1.8" />
+      <module name="01-SimpleDemo" target="1.8" />
+      <module name="02-dbUserAuthentication" target="1.8" />
+      <module name="03-InMemoryUserDetails" target="1.8" />
+      <module name="04-user-role" target="1.8" />
+      <module name="05-user-role-ajax" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
